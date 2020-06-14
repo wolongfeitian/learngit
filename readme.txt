@@ -5,4 +5,4 @@ Git is free software.
 XXXXX
 创建一个分之既快又简单
 
-再次修稿
+再次修稿 修改了一个bug
